@@ -63,7 +63,6 @@
 		8555564D89FA08B37F1413A1 /* Pods-FrameworkTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FrameworkTest.debug.xcconfig"; path = "Target Support Files/Pods-FrameworkTest/Pods-FrameworkTest.debug.xcconfig"; sourceTree = "<group>"; };
 		8A56C79E2639442900EC7679 /* FBDAApi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FBDAApi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A56C7A02639442900EC7679 /* FBDAApi.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FBDAApi.h; sourceTree = "<group>"; };
-		8A56C7A12639442900EC7679 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8A56C7AB2639449900EC7679 /* FBDDashboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FBDDashboard.m; sourceTree = "<group>"; };
 		8A56C7AC2639449900EC7679 /* FBDDashboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FBDDashboard.h; sourceTree = "<group>"; };
 		8A56C7AD2639449900EC7679 /* FBUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FBUtils.m; sourceTree = "<group>"; };
@@ -124,7 +123,6 @@
 				8A56C7B02639449A00EC7679 /* FBUtils.h */,
 				8A56C7AD2639449900EC7679 /* FBUtils.m */,
 				8A56C7A02639442900EC7679 /* FBDAApi.h */,
-				8A56C7A12639442900EC7679 /* Info.plist */,
 			);
 			path = FBDAApi;
 			sourceTree = "<group>";

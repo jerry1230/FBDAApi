@@ -8,7 +8,7 @@
 #import <Foundation/Foundation.h>
 #import "FBDDashboard.h"
 #import "FBUtils.h"
-#import "Masonry.h"
+#import <Masonry/Masonry.h>
 
 
 @interface FBDDashboard ()

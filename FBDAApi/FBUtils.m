@@ -12,7 +12,7 @@
 @implementation FBUtils
 + (void)sayHello
 {
-    NSLog(@"Hello world!")
+    NSLog(@"Hello world!");
 }
 
 + (float)getCPUUsage {
